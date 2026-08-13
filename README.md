@@ -40,7 +40,7 @@ func main() {
         University: "Rice University",
         Year:       2028,
         Location:   "Houston, TX",
-        Email:      "yl328@rice.edu",
+        Email:      "yechen.liu@rice.edu",
         Languages:  []string{"Python", "Go", "C++", "Java", "C", "TypeScript"},
         Interests:  []string{"AI/ML", "Systems Programming", "Web Dev", "Game AI"},
     }
@@ -65,6 +65,9 @@ func main() {
 
 **Frameworks & Tools**
 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![scikit-image](https://img.shields.io/badge/scikit--image-4DABCF?style=for-the-badge&logo=python&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -124,8 +127,8 @@ func main() {
 
 **Connect with me**
 
-[![Email](https://img.shields.io/badge/Email-yl328%40rice.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yl328@rice.edu)
-[![Website](https://img.shields.io/badge/Website-linusliu.github.io-6A0DAD?style=for-the-badge&logo=safari&logoColor=white)](https://linusliu.github.io)
+[![Email](https://img.shields.io/badge/Email-yechen.liu%40rice.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yechen.liu@rice.edu)
+[![Website](https://img.shields.io/badge/Website-YokohamaSnowly-6A0DAD?style=for-the-badge&logo=safari&logoColor=white)](https://user309dec.github.io/YokohamaSnowlyBlog/terminal)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=100&section=footer" width="100%"/>
 

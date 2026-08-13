@@ -101,15 +101,55 @@ func main() {
 
 ---
 
+## 🔬 Research Interests
+
+<div align="center">
+
+| Area | Topics |
+|:----:|:-------|
+| 🤖 **AI for Education** | Adaptive learning systems, concept visualization, AI-generated interactive content |
+| 👁️ **Computer Vision** | Image segmentation, feature extraction, deep learning pipelines |
+| 🧠 **Reinforcement Learning** | Game-playing agents, reward shaping, policy optimization |
+| ⚙️ **Systems & Performance** | Low-level optimization in C/C++, memory-efficient algorithms |
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
 
-[![G2L-AI](https://github-readme-stats.vercel.app/api/pin/?username=user309dec&repo=G2L-AI&theme=tokyonight&hide_border=true)](https://github.com/user309dec/G2L-AI)
-[![GameToLearn-AI](https://github-readme-stats.vercel.app/api/pin/?username=user309dec&repo=GameToLearn-AI&theme=tokyonight&hide_border=true)](https://github.com/user309dec/GameToLearn-AI)
-
-[![linusliu.github.io](https://github-readme-stats.vercel.app/api/pin/?username=user309dec&repo=linusliu.github.io&theme=tokyonight&hide_border=true)](https://github.com/user309dec/linusliu.github.io)
-[![YokohamaSnowlyBlog](https://github-readme-stats.vercel.app/api/pin/?username=user309dec&repo=YokohamaSnowlyBlog&theme=tokyonight&hide_border=true)](https://github.com/user309dec/YokohamaSnowlyBlog)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/user309dec/G2L-AI">🎮 G2L-AI</a></h3>
+      <p>Turn <strong>any file</strong> into an interactive AI-powered learning app. Explore concepts visually and learn actively.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/github/stars/user309dec/G2L-AI?style=flat-square&color=yellow"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/user309dec/GameToLearn-AI">🧩 GameToLearn-AI</a></h3>
+      <p>AI-powered game-based learning platform. Explore and absorb any concept through gameplay.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/github/stars/user309dec/GameToLearn-AI?style=flat-square&color=yellow"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/user309dec/YokohamaSnowlyBlog">🌨️ YokohamaSnowlyBlog</a></h3>
+      <p>Personal blog and portfolio site built with Astro — fast, minimal, and content-first.</p>
+      <img src="https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white"/>
+      <img src="https://img.shields.io/github/stars/user309dec/YokohamaSnowlyBlog?style=flat-square&color=yellow"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/user309dec/linusliu.github.io">🌐 linusliu.github.io</a></h3>
+      <p>Personal website showcasing projects, writing, and explorations in tech and design.</p>
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/github/stars/user309dec/linusliu.github.io?style=flat-square&color=yellow"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
